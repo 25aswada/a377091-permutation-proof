@@ -14,7 +14,7 @@ spirit to Conjecture 4.
 
 ## Contents
 
-- `A377091_proof.md` — the proof document.
+- `A377091_proof_revised_3.md` — the proof document.
 - `A377091_proof_checker_v4.py` — the exact-arithmetic checker. Verifies the
   one-sided cleanup certificates, the base boundary B_100, the checkpoint
   bridge inequalities and packet table, 1,236 full two-sided bridge
